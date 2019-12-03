@@ -14,10 +14,6 @@ new Docute({
       title: '有用的文档',
       links: [
         {
-            title: 'js',
-            link: '/2019_08_27'
-        },
-        {
           title: 'mysql 语句',
           link: '/2019_08_31'
         },
@@ -26,8 +22,48 @@ new Docute({
           link: '/2019_10_08'
         },
         {
+            title: 'uri',
+            link: '/2019_12_06'
+        } ,
+        {
             title: '日志',
             link: '/2019_12_02'
+        } ,
+        {
+            title: 'yande下载',
+            link: '/2019_12_03'
+        } ,
+        {
+            title: '起点下载',
+            link: '/2019_12_04'
+        },
+        {
+            title: 'vim',
+            link: '/2019_12_05'
+        },
+        {
+            title: 'shadowsocks',
+            link: '/2019_12_07'
+        },
+        {
+            title: 'web',
+            link: '/2019_12_09'
+        },
+        {
+            title: 'git',
+            link: '/2019_12_10'
+        },
+        {
+            title: 'ffmpeg',
+            link: '/2019_12_11'
+        },
+        {
+            title: 'mysql',
+            link: '/2019_12_12'
+        },
+        {
+            title: '总结',
+            link: '/2019_12_13'
         }
       ]
     }
