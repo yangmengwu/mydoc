@@ -68,6 +68,10 @@ new Docute({
         {
             title: '失败',
             link: '/2020_04_10'
+        },
+        {
+            title: 'ssl',
+            link: '/2020_08_18'
         }
       ]
     }
