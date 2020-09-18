@@ -72,6 +72,10 @@ new Docute({
         {
             title: 'ssl',
             link: '/2020_08_18'
+        },
+        {
+            title: '易',
+            link: '/2020_09_18'
         }
       ]
     }
